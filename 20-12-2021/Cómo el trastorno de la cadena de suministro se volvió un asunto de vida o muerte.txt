@@ -1,0 +1,59 @@
+Cómo el trastorno de la cadena de suministro se volvió un asunto de vida o muerte
+
+Durante buena parte de este año, la respiración de Joseph Norwood estuvo ligada a una competencia con gente ansiosa por comprar una nueva versión de sus iPhone.
+Norwood tiene apnea del sueño, es decir que suele dejar de respirar mientras duerme.
+Un dispositivo conocido como CPAP (la sigla en inglés para presión positiva continua en la vía aérea) puede bombear aire por medio de una mascarilla mientras la persona duerme, lo que reduce en gran medida el riesgo de una muerte súbita.
+Sin embargo, estas máquinas necesitan chips de computadora, un componente que sufre una escasez crítica en medio de la 
+. Norwood esperó más de seis largos meses para recibir su dispositivo.
+“Sentí que se tardó toda la vida”, opinó. “No he trabajado. No he hecho casi nada”.
+En todo el mundo, la gran mayoría de las mayores industrias está compitiendo por garantizar el suministro escaso de chips de computadora. 
+ debido a la falta de chips, una amenaza para los puestos de trabajo desde 
+ y 
+ hasta 
+. 
+ ha reducido la fabricación de sus iPad. 
+ se han preparado para una temporada de compras navideñas signada por la escasez de los aparatos electrónicos que todos quieren.
+Las empresas que producen los chips de computadora —la mayoría de las cuales están ubicadas en Asia— han aumentado la producción mientras se las arreglan para cumplir los pedidos de sus clientes más importantes. Esto ha complicado de una manera excesiva la compra de chips para las empresas más pequeñas. Uno de esos compradores especializados es ResMed, la empresa con sede en San Diego que fabrica el CPAP que Norwood recibió el mes pasado.
+“A los dispositivos médicos se les está negando todo”, comentó en una entrevista el director ejecutivo de la empresa, Michael Farrell. “¿Necesitamos otro celular? ¿Otro auto eléctrico? ¿Otro refrigerador conectado a la nube? ¿O necesitamos otro respirador que le regale el tesoro de respirar a una persona?”.
+Según Farrell, ResMed ha tenido dificultades para comprar suficientes chips, lo cual ha limitado su capacidad para producir una variedad de equipo vital, desde respiradores que usan pacientes con COVID-19 hasta dispositivos respiradores que mantienen con vida a bebés prematuros.
+La empresa está “produciendo menos del 75 por ciento de lo que necesitan nuestros clientes”, mencionó Farrell.
+Farrell ha tenido que encarnar un papel fuera de lo común: suplicarles a sus proveedores que le repartan más de sus productos para que su empresa pueda ocuparse del creciente retraso en los pedidos.
+A esta campaña todavía le falta producir más chips, aunque ha brindado lecciones desgarradoras sobre las prioridades actuales mientras la economía mundial se esfuerza por regresar a la normalidad casi dos años después de iniciada la pandemia.
+“Estoy luchando contra todas las automotrices y empresas de comunicación celular de renombre y otras que también quieren más suministros”, señaló Farrell. “Somos un porcentaje tan pequeño de la producción total de chips semiconductores que a menudo no logramos llamar la atención”.
+Los fabricantes de dispositivos médicos han gastado este año unos 6400 millones de dólares en chips para computadora, según la empresa de investigación Gartner.
+La industria del automóvil ha gastado 49.000 millones de dólares. Los fabricantes de aparatos de comunicación inalámbrica, como celulares y tabletas, han comprado chips por valor de casi 170.000 millones de dólares, más de 26 veces más que los fabricantes de dispositivos médicos, según Gartner.
+La escasez afecta a todos los sectores. Pero al igual que las aerolíneas les dan prioridad a sus pasajeros más frecuentes ante una ventisca que cancela vuelos, los fabricantes de chips están favoreciendo a sus mayores clientes, dicen los expertos.
+“Todos los demás se enfrentan a la misma dificultad”, afirma Willy C. Shih, experto en comercio internacional de la Harvard Business School. “Pero es cierto que si eres Apple o alguien que compra mucho, probablemente recibas más atención”.
+En parte, la escasez es el resultado de los esfuerzos mediocres para anticipar el impacto económico de la pandemia.
+A inicios de 2020, el surgimiento de la COVID-19 en China propagó temores de una recesión mundial que iba a destruir la demanda de una gran gama de productos. Esto provocó que los compradores principales de chips —en especial las automotrices— redujeran sus pedidos. En respuesta, las plantas de semiconductores recortaron su producción.
+Eso fue un error colosal. La pandemia cerró restaurantes, cines y hoteles, además de que redujo la demanda de autos. Sin embargo, los confinamientos impuestos para restringir la propagación del virus aumentaron la demanda de una variedad de productos que usan chips, como los monitores de computadoras personales y las impresoras para equipar las nuevas oficinas caseras.
+Para cuando la industria mundial se percató de que estaba aumentando la demanda de chips, fue demasiado tarde. Para incrementar la capacidad de fabricación de chips se requieren hasta dos años de tiempo de elaboración y miles de millones de dólares.
+En Norteamérica, Europa y otras regiones, los fabricantes de dispositivos médicos se rigen por estrictas normas de seguridad para sus productos, las cuales limitan su flexibilidad para adaptarse cuando hay problemas. Cuando una empresa como ResMed obtiene la autorización regulatoria para utilizar un proveedor, no puede simplemente buscar uno nuevo que pueda tener existencias listas de chips sin primero pasar por un proceso de aprobación que consume mucho tiempo.
+Esto quiere decir que ResMed tuvo que arreglárselas para obtener más chips de la cadena de suministro de la que dependía.
+Lejos de ser componentes sencillos, hay una enorme variedad de chips de computadora y cada uno está hecho de muchas partes que suelen fabricarse en varios países.
+Frente a la posibilidad de quedar excluido, Farrell analizó su cadena de suministro con el fin de identificar a los proveedores de sus proveedores, con la esperanza de persuadirlos para priorizar las fábricas de ResMed.
+Pronto, Farrell se dio cuenta de que una de las razones principales de que su proveedor de chips no pudiera satisfacer su demanda era que —cinco niveles arriba en la cadena— un fabricante taiwanés de discos de silicio había agotado su inventario.
+Como la planta no podía entregar más productos, el siguiente eslabón de la cadena —una empresa que combina discos y sistemas de circuitos— no podía producir más de sus componentes. Esto implicaba que otra compañía que compra esos componentes y los empaca no podía hacer más.
+Y eso implicaba que el proveedor de tarjetas de circuitos de ResMed no podía comprar suficientes cantidades de esos componentes, por lo tanto las fábricas de ResMed en Singapur, Sídney y Atlanta no tenían suficientes tarjetas de circuitos.
+Farrell se echó la responsabilidad al hombro para intentar que no se desarticulara su cadena de suministro. Tras echar mano de sus contactos en Australia, donde nació y creció, concertó una conversación con un miembro del consejo de la empresa de discos.
+En octubre, durante una escapada con su esposa a Columbia Británica para celebrar su aniversario, Farrell le dedicó tiempo a una llamada por Zoom. El miembro del consejo le presentó a Farrell a otro miembro del consejo en Londres, quien luego se puso en contacto con el director de ventas de la empresa en San Francisco. Farrell conectó al director de ventas de la empresa de discos con el presidente de operaciones de ResMed en Singapur.
+Los pedidos de ResMed aumentaron apenas un uno por ciento la producción de la empresa de discos. Una simple fracción de un uno por ciento de discos adicionales bastó para satisfacer las necesidades de ResMed.
+Al principio, el fabricante de discos aceptó el incremento, pero luego dio marcha atrás a esa decisión.
+“De hecho, redujeron nuestra cuota”, comentó Farrell.
+Todo esto explica por qué Norwood estaba atascado a la espera de su CPAP.
+Norwood, quien nació hace 44 años en Minnesota, ha pasado su vida adulta en busca de un refugio del invierno. Vivió en Maui durante siete años y luego se mudó a San Diego en el otoño de 2019, para trabajar de mesero en el restaurante de un hotel en la costa.
+A inicios del año pasado, estaba viendo una película con un compañero de casa cuando de repente se desmayó.
+“Fue muy aterrador”, recordó Norwood. “Me desperté y mi compañero de casa me estaba tocando el hombro. Estaba desorientado”.
+Una semana después, volvió a perder el conocimiento. Su concentración se fue debilitando a lo largo del día. Los paseos cortos lo dejaban sin aliento.
+Dejó de trabajar y solicitó una pensión de invalidez.
+A inicios de este año, Norwood pasó una noche en un laboratorio del sueño en el campus de San Diego de la Universidad de California. Los doctores observaron que su respiración se había detenido 62 veces por hora, mientras que su nivel de oxígeno en la sangre había disminuido a niveles alarmantes.
+Cuando los médicos le pusieron un CPAC, la respiración de Norwood regresó a la normalidad. Se encargaron de que recibiera uno en casa. Norwood estaba ansioso por reanudar su vida normal.
+Sin embargo, semanas más tarde, el dispositivo todavía no llegaba. Cuando llamó a su aseguradora para hacer las averiguaciones, le dijeron que estaba en una lista de espera, sin ninguna claridad de cuánto debía esperar.
+“Me dijeron: ‘No tenemos ni idea. Nadie nos dice nada’”, recordó Norwood.
+En internet, se enteró sobre la escasez de chips de computadora. Leyó un artículo sobre el piloto de una aerolínea que tenía apnea del sueño y no podía volar porque todavía no recibía su propio CPAP. Una 
+ por parte de un gran fabricante redujo aún más el suministro.
+“Soy un simple mesero que le lleva la comida y las bebidas a la gente y no puedo tener un CPAP”, comentó Norwood. “Si el piloto de un avión no tiene uno, podría pasar un buen tiempo antes de que tenga el mío”.
+Cuando por fin recibió el dispositivo en noviembre, cambió su perspectiva.
+“Anoche fue la mejor noche que he pasado en años”, comentó al día siguiente de recoger el dispositivo y agregó que esperaba regresar al trabajo.
+Sin embargo, la experiencia impactó a Norwood por las realidades de quién obtiene un producto durante una época de escasez desconcertante.
+“Es muy desafortunado cómo el dinero controla todo”, opinó. “Nuestras prioridades están muy distorsionadas”.

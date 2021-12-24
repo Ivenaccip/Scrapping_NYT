@@ -1,0 +1,88 @@
+Ómicron es un ensayo general para la próxima pandemia
+
+Cuando los científicos descubrieron la 
+ del coronavirus el mes pasado, se desencadenó una serie de eventos inquietantemente familiares.
+Los expertos en salud convocaron sombrías conferencias de prensa que plantearon más preguntas que respuestas. Los funcionarios impusieron prohibiciones de viaje que muy probablemente llegaron demasiado tarde. Los rastreadores de virus completaron sus mapas a medida que la variante se reportaba en un país tras otro. Y al resto nos tocó esperar, con creciente inquietud, para saber más sobre la amenaza a la que nos enfrentábamos.
+La misma secuencia se desarrolló hace casi dos años cuando se descubrió por primera vez el nuevo coronavirus, SARS-CoV-2. En esas primeras semanas de 2020 fue lamentable que Estados Unidos demostró no estar preparado para los desafíos que se avecinaban, empezando por la tarea más fundamental: 
+.
+“Tuvimos una demora de uno a dos meses antes de que pudiéramos identificar la presencia del virus”, dijo Charles Chiu, especialista en enfermedades infecciosas y microbiólogo de la Universidad de California en San Francisco. “Y en ese momento, ya había circulado ampliamente por varios estados y de costa a costa”.
+Estos fracasos han sido bien documentados y ómicron es una señal más de que la pandemia actual, que ha ocasionado el fallecimiento de 
+, no ha terminado.
+Pero ómicron también es un ensayo general para la próxima pandemia. La tarea que tenemos ante nosotros de detectar, rastrear y ralentizar la propagación de una amenaza para la salud que no entendemos por completo, es la misma estrategia que se requerirá para detener cualquier brote futuro.
+La analogía no es perfecta. Cuando llegó ómicron, los científicos ya habían desarrollado vacunas y tratamientos para el virus y estaban en alerta máxima por las nuevas variantes. La próxima pandemia puede surgir con menos advertencias.
+“Sabemos que hay patógenos peores que el SARS-CoV-2 que emergen, resurgen y esperan su momento para transmitirse”, dijo Rick Bright, director ejecutivo del Instituto de Prevención de Pandemias de la Fundación Rockefeller.
+El surgimiento de ómicron es una oportunidad para hacer un balance tanto de los logros que hemos conseguido como de las formas en las que todavía nos quedamos cortos ante las emergencias. También es un llamado a la acción: cualquier progreso que hayamos logrado no es suficiente.
+En cualquier otro contexto, no habría sido notable: el domingo 28 de noviembre, un residente de San Francisco que se había sentido levemente enfermo se hizo una prueba de covid. Al día siguiente, salió positivo.
+Sin embargo, lo que disparó las alarmas fue que esa persona había regresado recientemente de Sudáfrica, donde la variante ómicron, recién descubierta, estaba muy extendida.
+La muestra de la persona que viajó se marcó para la secuenciación genómica prioritaria que revelaría el código genético del virus que la había infectado, además determinaría si tenía las mutaciones reveladoras de ómicron.
+Chiu, el microbiólogo de San Francisco, fue elegido para realizar la secuenciación. A las 6:00 p. m. del martes 30 de noviembre, pocas horas después de que Chiu se enteró por primera vez de la muestra, se la entregó personalmente a su laboratorio, empaquetada en hielo seco.
+Chiu y sus colegas se pusieron a trabajar rápidamente. Aunque generar la secuencia completa lleva horas, los científicos optaron por utilizar una técnica conocida como secuenciación de nanoporos, que les permitió analizar los resultados en tiempo real, mientras el proceso aún estaba en curso.
+“A medida que se acumularon los datos, pudimos identificar más y más mutaciones”, recuerda Chiu.
+Antes del amanecer, estaba seguro: era ómicron, y se trataba del 
+ en Estados Unidos. Había pasado menos de una semana desde que Sudáfrica anunció públicamente la existencia de la variante.
+No podemos luchar contra lo que no podemos ver, y la prevención de la próxima pandemia comienza con la detección y seguimiento de los patógenos que nos amenazan. En ese sentido, al menos “estamos extraordinariamente mejor que el año pasado”, dijo Joseph Fauver, epidemiólogo genómico del Centro Médico de la Universidad de Nebraska en Omaha.
+El primer eslabón de la cadena de vigilancia de enfermedades son las pruebas. ¿Quiénes están infectados y dónde están? Sin pruebas precisas y oportunas, puede resultar imposible frenar la propagación de un patógeno.
+Desafortunadamente, Estados Unidos falló con las pruebas 
+. Los Centros para el Control y la Prevención de Enfermedades (CDC, por su sigla en inglés) 
+, mientras que la escasez de suministros y los retrasos regulatorios crearon un desajuste épico entre la oferta y la demanda. En el verano y otoño de 2020, las esperas en los sitios de prueba 
+; la espera de los resultados 
+. Y no hubo un plan nacional de pruebas coordinado.
+Estos errores permitieron que el virus se propagara, sin ser visto y sin control, aumentando la demanda de los hospitales y dificultando otras medidas de mitigación. Sin pruebas accesibles, la estrategia que ayudó a otros países a romper la cadena de transmisión (identificar rápidamente a las personas con el virus, aislarlas y rastrear sus contactos) tenía pocas posibilidades de éxito.
+A medida que pasó el tiempo, la crisis de las pruebas disminuyó. Los laboratorios diversificaron sus cadenas de suministro, compraron nuevos equipos y contrataron a más personal, dijo Kelly Wroblewski, directora de enfermedades infecciosas de la Asociación de Laboratorios de Salud Pública.
+Cada vez más pruebas obtuvieron la autorización de emergencia de la Administración de Alimentos y Medicamentos de Estados Unidos (FDA, por su sigla en inglés), incluidas las pruebas rápidas domésticas que daban resultados inmediatos.
+“Nos hemos mudado de los hospitales a los laboratorios centrales, y a su sala de estar”, dijo Mara Aspinall, experta en diagnósticos biomédicos de la Universidad Estatal de Arizona. (Aspinall está en la junta directiva de OraSure, que fabrica pruebas para la covid).
+Los CDC, que 
+ sobre quién podía hacerse la prueba del virus, comenzaron a recomendar la detección de rutina como una herramienta para frenar la transmisión. Para cuando ómicron apareció en los titulares, ya no era sorprendente que un niño de 5 años se hiciera una prueba antes de ir a la escuela o que un residente enfermo de San Francisco, que acababa de regresar de Sudáfrica, tuviera los resultados de una prueba molecular en 24 horas.
+“Es como una comparación entre el día y la noche cuando recordamos el lugar donde estábamos al comienzo de la pandemia”, dijo Wroblewski.
+Pero Estados Unidos todavía está haciendo 
+, y tiene una mayor proporción de exámenes que arrojan resultados positivos, en comparación con otros países de altos ingresos, según afirma el Centro de Recursos de Coronavirus de Johns Hopkins.
+“No hemos hecho un buen trabajo para lograr que las pruebas estén disponibles”, dijo Ezekiel J. Emanuel, bioético de la Universidad de Pensilvania que fue miembro de la Junta Asesora de la COVID-19 del presidente Joe Biden durante la transición presidencial.
+Los tiempos de procesamiento de las pruebas moleculares (PCR) aún varían ampliamente, y las pruebas rápidas pueden ser difíciles de encontrar en las tiendas y exceden el presupuesto de muchos estadounidenses, especialmente porque están diseñadas para usarse con frecuencia. (El nuevo plan del gobierno de Biden para que las aseguradoras de salud reembolsen a sus afiliados por las pruebas domésticas puede ayudar, 
+).
+Muchos de estos problemas pueden atribuirse a la falta de inversión gubernamental en las pruebas al comienzo de la pandemia. El gobierno de Donald Trump creó la Operación Velocidad Máxima ​​para impulsar el desarrollo de las vacunas. Pero, según los expertos, el país necesitaba un esfuerzo similar para las pruebas de diagnóstico.
+Es posible que las pruebas no sean tan llamativas como las vacunas pero, según los investigadores, en cualquier pandemia futura debería ser una prioridad desde el principio.
+El siguiente eslabón vital en la cadena de vigilancia es la secuenciación genómica generalizada de rutina. Este tipo de monitoreo ayuda a que los expertos sepan cómo muta un patógeno y cómo se propagan las nuevas variantes.
+En Estados Unidos, este esfuerzo tuvo un 
+. “Muchos laboratorios de salud pública estaban, francamente, abrumados por el volumen de pruebas iniciales y las obligaciones en competencia”, dijo Duncan MacCannell, director científico de la oficina de detección molecular avanzada de los CDC.
+Aunque algunos laboratorios de investigación establecieron sus propios programas de secuenciación independientes, hubo poco financiamiento o coordinación.
+En la primavera de 2020, los CDC 
+ de laboratorios académicos, comerciales y de salud pública para “comenzar a impulsar” un esfuerzo nacional más enfocado, dijo MacCannell. Pero el progreso se vio frenado por la falta de recursos y un sistema de atención médica fragmentado que no tenía un canal organizado para llevar muestras de pacientes de los sitios de prueba a los laboratorios de secuenciación.
+“Muchas máquinas de secuenciación estaban inactivas en 2020”, dijo Bronwyn MacInnis, quien dirige la vigilancia genómica de patógenos en el Broad Institute en Cambridge, Massachusetts.
+Pero a fines de 2020 y principios de 2021, la aparición de la variante alfa —que es altamente contagiosa— y la afluencia de 
+ finalmente impulsaron la vigilancia genómica a una velocidad mayor. Desde enero, el país ha pasado de secuenciar 
+ muestras semanales a 
+, en promedio, según cifras de los CDC.
+Y cuando se conoció la noticia de ómicron, el 25 de noviembre, algunos 
+, agregando turnos de fin de semana y turnos nocturnos para detectar la variante. Aunque el laboratorio de Chiu fue el primero en detectarlo, los investigadores de otros estados (Minnesota, Colorado, Nueva York y Hawái) pronto siguieron su ejemplo.
+“El surgimiento de ómicron realmente demostró que hemos ampliado nuestra capacidad de manera significativa para poder identificar estas variantes a medida que surgen”, dijo Chiu.
+Algunos equipos de investigación comenzaron a detectar la variante en las aguas residuales. Como el virus se elimina en las heces, el 
+ puede proporcionar una instantánea de si el virus, o una variante en particular, está presente en una comunidad y cuán prevalente es.
+Aunque la epidemiología de las aguas residuales no es nueva, la pandemia la ha convertido de una búsqueda especializada en una estrategia general. La necesidad de monitorear el virus hizo que los CDC, en asociación con otras agencias federales, crearan el 
+, que eventualmente podría usarse para monitorear bacterias resistentes a los antibióticos, patógenos transmitidos por los alimentos y otros microbios.
+Ómicron fue una prueba de ese enfoque. A principios de diciembre, los investigadores encontraron la variante en 
+ en Houston, días antes de que la ciudad reportara sus primeros casos.
+“Este es el tipo de cosas que nos permiten enfrentarnos al SARS-CoV-2”, dijo Samuel Scarpino, director gerente de vigilancia de patógenos en el Instituto de Prevención de Pandemias.
+Y, sin embargo, si ómicron es una prueba de nuestra preparación para lo inesperado, algunos expertos no están convencidos de que la hayamos aprobado. En comparación con otros países, Estados Unidos estuvo retrasado, durante días, en la detección de la variante.
+“Eso no es una buena señal”, dijo Eric Topol, fundador y director del Instituto Traslacional de Investigación Scripps en San Diego, California.
+A pesar de las mejoras recientes, el país ha secuenciado una proporción menor de casos desde el comienzo de la pandemia que 
+, según GISAID, una base de datos internacional de genomas virales.
+Todavía hay 
+ y la noticia de ómicron se conoció el Día de Acción de Gracias, cuando los tiempos de procesamiento probablemente fueron más largos de lo habitual, dijeron los expertos. (Los datos de los CDC muestran una caída en la cantidad de secuencias de virus agregadas a las bases de datos públicas durante esa semana y la semana posterior a las vacaciones).
+La estrategia nacional también es desigual: algunos estados secuencian más del 20 por ciento de sus casos de covid y otros secuencian menos del 3 por ciento, y pueden faltar ciertas regiones o comunidades incluso dentro de los estados, según afirman los expertos.
+“Esa no es una infraestructura eficaz para la vigilancia genética de infecciones virales”, dijo Emanuel. “Tiene que ser a nivel nacional y tiene que ser uniforme”.
+Los científicos afirman que Estados Unidos debe hacer un mejor trabajo para identificar a las personas que tienen más probabilidades de albergar nuevas variantes. En vez de restringir a los viajeros del extranjero, los funcionarios podrían hacer un esfuerzo más concertado para analizarlos en busca del virus y secuenciar las muestras positivas.
+Las personas con infecciones progresivas y aquellas con sistemas inmunitarios comprometidos, que pueden tener más problemas para combatir el virus, lo que le da más posibilidades de mutar, también deberían ser prioridades para la secuenciación, dicen los expertos.
+“No solo tenemos que secuenciar, sino que también debemos asegurarnos de que estamos secuenciando en las comunidades adecuadas y las personas adecuadas”, dijo Janet Robishaw, decana asociada de investigación de la Facultad de Medicina de Florida Atlantic University en Boca Ratón.
+Y aunque los países con sistemas de atención sanitaria centralizada o nacionalizada, como Gran Bretaña, pueden vincular las secuencias virales con los datos clínicos de los pacientes con relativa facilidad, en Estados Unidos eso es mucho más difícil. ¿La muestra procedía de alguien que estaba en terapia intensiva o era alguien que estaba en su casa con un resfriado? ¿Fueron vacunados y, en caso afirmativo, con qué vacuna y cuándo?
+“Podemos hacer mucho con las secuencias en términos de observar cuán rápido se está propagando ómicron, delta o lo que sea”, dijo Trevor Bedford, experto en evolución viral y vigilancia en el Centro de Investigación del Cáncer Fred Hutchinson en Seattle. “Pero hace que sea difícil abordar preguntas científicas realmente importantes como determinar si la variante delta es más severa”.
+Algunos de los avances que ha logrado el país podrían ubicarnos en una mejor posición para la próxima pandemia. Por ejemplo, los laboratorios de salud pública tienen nuevos equipos y experiencia, que ahora pueden utilizar para rastrear la gripe, las enfermedades transmitidas por los alimentos y cualquiera que sea la próxima gran amenaza para la salud mundial.
+Pero mantener estos logros requerirá un compromiso y una financiación continuos cuando haya pasado la crisis inmediata. “El patrón histórico es que mejoramos y luego lo olvidamos y nos descuidamos”, dijo Bright.
+Muchos funcionarios de salud agotados ya han renunciado a sus trabajos, y los legisladores aprobaron más de 100 leyes que limitan los poderes de salud pública de las autoridades estatales y locales, concluyó un 
+.
+Algunos de los problemas que ha puesto de manifiesto la pandemia están profundamente arraigados. Por ejemplo, un programa de vigilancia genómica altamente coordinado como el de Gran Bretaña, que con frecuencia se presenta como un ejemplo, siempre iba a ser una tarea difícil en Estados Unidos.
+“Tenemos un sistema de atención médica balcanizado, y el sistema es un desastre gigantesco”, dijo Jeremy Kamil, virólogo del Centro de Ciencias de la Salud de la Universidad Estatal de Luisiana en Shreveport.
+Y la preparación para una pandemia no ocurre en el vacío. Así como una distribución más equitativa de las vacunas podría ayudar a sofocar la próxima variante importante, la prevención del próximo gran brote mundial requerirá asegurarse de que cada país tenga los recursos para detectar y responder a los patógenos emergentes.
+Estados Unidos es un país grande y fracturado, políticamente polarizado y agobiado por desigualdades flagrantes, información errónea, desinformación desenfrenada y una desconfianza considerable en los funcionarios públicos. Estos son problemas enormes y complejos que son mucho más difíciles de abordar que asegurarse de que los laboratorios tengan la capacidad para detectar ómicron o cualquier patógeno nuevo.
+“Confío en nuestra capacidad para detectar la variante”, dijo Fauver. “En lo que no confío es en nuestra capacidad para hacer algo al respecto. Detectamos la variante delta todos los días, cada vez que secuenciamos”.
+Incluso antes de que se conociera la noticia del surgimiento de ómicron, ya había comenzado otra oleada impulsada por delta. Los científicos están detectando más casos de ómicron todos los días, y la variante pronto podría superar a delta. Lo que viene a continuación, incluso determinar cuál es la meta a la que deberíamos aspirar, es menos claro. ¿Deberíamos pasar el invierno tratando de detener todas las infecciones? ¿Proteger a las personas de mayor riesgo de las complicaciones graves y los fallecimientos? ¿Tendríamos que asegurarnos de que los hospitales no colapsen?
+“Una cosa que nos ha faltado continuamente durante la pandemia es una meta”, dijo Emily Gurley, epidemióloga de la Escuela de Salud Pública Johns Hopkins Bloomberg. “Todavía no tenemos eso. Es claro que no lo tenemos para ómicron”.
